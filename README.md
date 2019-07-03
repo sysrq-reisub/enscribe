@@ -1,4 +1,9 @@
 # enscribe
+-------------------
+This is a very useful program I found on the internet released with GPL, since it wasn't already present on github I reuploaded the source code.
+-------------------
+
+
 Convert images into sound
 Welcome to the wonderful world of Enscribe 0.1.0!
 
